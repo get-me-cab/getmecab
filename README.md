@@ -1,0 +1,4 @@
+getmecab
+========
+
+GetMeCab application repository
